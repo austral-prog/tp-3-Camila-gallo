@@ -7,10 +7,10 @@ def check_vowels():
     contO=str("o" in nombre)
     contU=str("u" in nombre)
     print("Contiene a: "+ contA)
-    print('contiene e: '+ contE)
-    print('contiene i: '+ contI)
-    print('contiene o: '+ contO)
-    print('contiene u: '+ contU)
+    print('Contiene e: '+ contE)
+    print('Contiene i: '+ contI)
+    print('Contiene o: '+ contO)
+    print('Contiene u: '+ contU)
 
 # Para verificar este ejercicio ejecutar el comando
 # `pytest tp3_in_string_test.py` o `python tp3_in_string_test.py`
